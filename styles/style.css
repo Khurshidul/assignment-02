@@ -320,26 +320,8 @@ footer img{
 
 }
 .form-cup{
-    display: block;
+    display: none;
    
-}
-.form{
-    margin-left: 50px;
-    width: 200px;
-    height: 200px;
-    position: relative;
-    top: 200px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-input{
-    width: 100px;
-    height: 15px;
-}
-.world-cup img{
-    position: relative;
-    top: 200px;
-    margin-left: 25px;
 }
 
 /* Responsive form  */
